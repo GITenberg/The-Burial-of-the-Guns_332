@@ -1,0 +1,29 @@
+_repo: The-Burial-of-the-Guns_332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Page, Thomas Nelson
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '184'
+    url: http://www.gutenberg.org/2009/agents/184
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: My cousin Fanny -- The burial of the guns -- The gray jacket of "No.
+  4" -- Miss Dangerlie's roses -- How the captain made Christmas -- Little Darby.
+title: The Burial of the Guns
+url: http://www.gutenberg.org/ebooks/332
